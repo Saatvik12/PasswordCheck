@@ -15,4 +15,4 @@ The code only contain basic codes like:
   - String manupilation
 
 If you have any suggetions for this code pls feel free to contact me @ saatvik.karthik@gmail.com
-- Saatvik
+-Saatvik
