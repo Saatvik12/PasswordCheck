@@ -8,7 +8,7 @@ The conditions for this password check are:
   -  Must contain atleast 1 special character
 When the password contain all these parameters, you have the perfect password!
 
-The code only contain basic codes like:
+The code only contains basic functions and syntax's like:
   - IF condition
   - FOR loop
   - Arrays
